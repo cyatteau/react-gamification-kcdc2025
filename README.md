@@ -17,7 +17,7 @@ Unlock the power of gamification in your React applications to create compelling
 - **Level:** Intermediate  
 - **Presenter:** Courtney Yatteau, Developer Advocate, Esri  
 
-**Slides:** [Link to Slides](https://github.com/cyatteau/react-gamification-kcdc2025/blob/main/Slides.pdf)
+**Slides:** [Link to Slides](https://github.com/cyatteau/react-gamification-kcdc2025/blob/main/Slides-Presentation.pdf)
 
 ---
 
