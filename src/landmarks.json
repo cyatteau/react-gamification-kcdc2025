@@ -1,92 +1,82 @@
 {
   "landmarks": [
     {
-      "name": "St. Charles Convention Center (DevUp HQ)",
-      "address": "1 Convention Center Plaza, St. Charles, MO 63303",
+      "name": "Kansas City Convention Center",
+      "address": "301 W 13th St, Kansas City, MO 64105",
       "coordinates": {
-        "latitude": 38.758,
-        "longitude": -90.501
+        "latitude": 39.0997,
+        "longitude": -94.5877
       },
-      "description": "The main venue for DevUp 2025—your starting point for all quests!",
+      "description": "The main venue for the conference—your HQ for sessions, networking, and events in the heart of downtown Kansas City.",
       "quiz": [
         {
-          "question": "Which river is nearest to the St. Charles Convention Center?",
-          "options": ["Missouri", "Mississippi", "Illinois", "Ohio"],
-          "answer": "Missouri"
+          "question": "Which iconic feature sits atop the Kansas City Convention Center?",
+          "options": ["Sky Stations sculptures", "Ferris wheel", "Glass dome", "Observation tower"],
+          "answer": "Sky Stations sculptures"
         }
       ]
     },
     {
-      "name": "Embassy Suites St. Charles",
-      "address": "2 Convention Center Plaza, St. Charles, MO 63303",
+      "name": "Loews Kansas City Hotel",
+      "address": "1515 Wyandotte St, Kansas City, MO 64108",
       "coordinates": {
-        "latitude": 38.7585,
-        "longitude": -90.5033
+        "latitude": 39.0956,
+        "longitude": -94.5870
       },
-      "description": "The connected hotel—perfect for DevUp attendees grabbing coffee between sessions.",
+      "description": "A modern hotel connected to the convention center via an enclosed walkway—perfect for grabbing coffee or relaxing between sessions.",
       "quiz": [
         {
-          "question": "Which meal is complimentary for Embassy Suites guests?",
-          "options": ["Breakfast", "Lunch", "Dinner", "None"],
-          "answer": "Breakfast"
+          "question": "What unique feature does the Loews Kansas City Hotel lobby offer?",
+          "options": ["Live jazz performances", "Indoor waterfall", "Rooftop pool", "Library nook"],
+          "answer": "Live jazz performances"
         }
       ]
     },
     {
-      "name": "Streets of St. Charles",
-      "address": "1650 Beale St, St. Charles, MO 63303",
+      "name": "Power & Light District",
+      "address": "50 E 13th St, Kansas City, MO 64106",
       "coordinates": {
-        "latitude": 38.764,
-        "longitude": -90.4982
+        "latitude": 39.0972,
+        "longitude": -94.5823
       },
-      "description": "A walkable district with restaurants, shops, and a movie theater—just north of the convention center.",
+      "description": "A lively entertainment area filled with restaurants, bars, and live music—just a short walk from the convention center.",
       "quiz": [
         {
-          "question": "Which attraction is NOT located at Streets of St. Charles?",
-          "options": [
-            "Bowling alley",
-            "Cinema",
-            "Restaurants",
-            "Retail stores"
-          ],
-          "answer": "Bowling alley"
+          "question": "Which famous Kansas City dish can you find in many Power & Light District restaurants?",
+          "options": ["Burnt ends BBQ", "Chicago-style pizza", "Cuban sandwich", "Cheesesteak"],
+          "answer": "Burnt ends BBQ"
         }
       ]
     },
     {
-      "name": "Ameristar Casino Resort Spa",
-      "address": "1 Ameristar Blvd, St. Charles, MO 63301",
+      "name": "Kauffman Center for the Performing Arts",
+      "address": "1601 Broadway Blvd, Kansas City, MO 64108",
       "coordinates": {
-        "latitude": 38.7673,
-        "longitude": -90.4814
+        "latitude": 39.0945,
+        "longitude": -94.5920
       },
-      "description": "Casino, dining, and nightlife situated on the Missouri River—about a mile east of DevUp HQ.",
+      "description": "An architectural landmark known for its striking shell-like design and world-class performances, just west of the convention center.",
       "quiz": [
         {
-          "question": "Which amenity can you find at Ameristar St. Charles?",
-          "options": [
-            "Casino gaming",
-            "Indoor theme park",
-            "Ski slope",
-            "Beach bar"
-          ],
-          "answer": "Casino gaming"
+          "question": "The Kauffman Center’s design was inspired by which musical instrument?",
+          "options": ["Harp", "Piano", "Violin", "Drum"],
+          "answer": "Harp"
         }
       ]
     },
     {
-      "name": "Katy Trail – Frontier Park Trailhead",
-      "address": "500 S Riverside Dr, St. Charles, MO 63301",
+      "name": "River Market",
+      "address": "20 E 5th St, Kansas City, MO 64106",
       "coordinates": {
-        "latitude": 38.775,
-        "longitude": -90.4801
+        "latitude": 39.1080,
+        "longitude": -94.5825
       },
-      "description": "Eastern trailhead of the 240-mile Katy Trail—ideal for a scenic walk or bike ride along the Missouri River.",
+      "description": "Historic district and home to the City Market—one of the region’s largest farmer’s markets—reachable via the free KC Streetcar from downtown.",
       "quiz": [
         {
-          "question": "The Katy Trail follows which former railroad’s right-of-way?",
-          "options": ["MKT (Katy)", "Union Pacific", "B&O", "Santa Fe"],
-          "answer": "MKT (Katy)"
+          "question": "Which mode of public transportation can take you from the Convention Center to River Market for free?",
+          "options": ["KC Streetcar", "Trolley bus", "Water taxi", "Bicycle share"],
+          "answer": "KC Streetcar"
         }
       ]
     }
