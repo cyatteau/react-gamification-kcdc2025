@@ -3,7 +3,7 @@ import { queryDemographicData } from "@esri/arcgis-rest-demographics";
 import { ApiKeyManager } from "@esri/arcgis-rest-request";
 
 const apiKey =
-  "AAPKc0a534840fb6404cb4e7350c842f2f137WNlQPzeGdDeqztxzZ_1U4PM9qnN5JKH1H9HF64M3KLjYCNgZ1p3szK3qlcCXJvX"; // Replace with your actual API key
+  ""; // Replace with your actual API key
 
 export const getDemographicData = async (latitude, longitude) => {
   const authentication = ApiKeyManager.fromKey(apiKey);
