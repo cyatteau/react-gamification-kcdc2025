@@ -6,7 +6,7 @@ import VectorTileLayer from "@arcgis/core/layers/VectorTileLayer";
 
 const SimpleMapComponent = React.memo(({ selectedBasemap }) => {
   esriConfig.apiKey =
-    "AAPKc0a534840fb6404cb4e7350c842f2f137WNlQPzeGdDeqztxzZ_1U4PM9qnN5JKH1H9HF64M3KLjYCNgZ1p3szK3qlcCXJvX";
+    "";
 
   const mapDiv = useRef(null);
 
