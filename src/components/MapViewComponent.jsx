@@ -17,7 +17,7 @@ const MapViewComponent = ({ location, landmarks, selectedBasemap }) => {
   const { state } = useAppContext();
   const mapDiv = useRef(null);
 
-  esriConfig.apiKey = "AAPKc0a534840fb6404cb4e7350c842f2f137WNlQPzeGdDeqztxzZ_1U4PM9qnN5JKH1H9HF64M3KLjYCNgZ1p3szK3qlcCXJvX";
+  esriConfig.apiKey = "";
 
   // Utility to compute distance in kilometers
   const calculateDistance = (lat1, lon1, lat2, lon2) => {
