@@ -53,7 +53,7 @@ This live demo app illustrates core concepts from the talk:
 
 ```bash
 git clone https://github.com/<your-username>/react-gamification-kcdc2025.git
-cd devup-2025-react-gamification
+cd react-gamification-kcdc2025
 npm install
 ```
 
